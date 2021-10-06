@@ -26,6 +26,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="CovidCumulativeDeaths.ipynb" />
+    <Content Include="CSV_JSON_XML.ipynb" />
     <Content Include="Instructions.txt" />
     <Content Include="Introduction_to_matplotlib_student_version.ipynb" />
     <Content Include="Introduction_to_Pandas_student_version.ipynb" />
