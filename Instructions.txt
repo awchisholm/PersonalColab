@@ -1,0 +1,20 @@
+# Create a Python Environment
+# The defaults will be to call it env and use the file requirements.txt
+# It will take a few minutes to complete
+
+# Open a power shell environment (View-->Terminal)
+
+# In the power shell type the following
+Set-ExecutionPolicy -Scope CurrentUser Unrestricted
+
+# Then type this
+.\env\Scripts\Activate.ps1
+
+#Your power shell prompt will change to have (env) at the beginning
+
+# Now type this
+jupyter notebook
+
+# A browser should start 
+
+# In the browser double click on the file called Introduction_to_Pandas_student_version.ipynb
