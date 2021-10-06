@@ -33,6 +33,7 @@
     <Content Include="owid-covid-data.csv" />
     <Content Include="ps3.csv" />
     <Content Include="requirements.txt" />
+    <Content Include="Semi_structured_text.ipynb" />
   </ItemGroup>
   <ItemGroup>
     <Interpreter Include="env\">
